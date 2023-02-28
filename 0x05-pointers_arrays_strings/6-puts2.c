@@ -18,9 +18,7 @@ void puts2(char *str)
 		s++;
 		i++;
 	}
-
 	k = i - 1;
-
 	for (q = 0; q <= k; q++)
 	{
 		if (k % 2 == 0)
